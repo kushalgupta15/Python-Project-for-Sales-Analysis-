@@ -1,12 +1,14 @@
 ----
 🛒 Sales Data Analysis Project
-
+----
 ----
 📌 Project Overview
-
+----
 This project focuses on analyzing sales data to uncover meaningful insights that can help businesses improve customer experience and increase sales. The analysis was performed using Python with popular data analysis and visualization libraries.
+
 ----
 🔧 Key Steps Performed
+----
 
 ✅ Data Cleaning & Manipulation
 
@@ -34,6 +36,7 @@ Provided recommendations for inventory planning to meet market demand.
 
 ----
 📊 Tools & Technologies Used
+----
 
 Python
 
@@ -45,6 +48,7 @@ Seaborn – Advanced statistical visualization
 
 ----
 🚀 Outcomes & Impact
+----
 
 Improved customer experience by recognizing potential customer groups.
 
