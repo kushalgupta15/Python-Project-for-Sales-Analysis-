@@ -1,6 +1,8 @@
 # Python-Project-for-Sales-Analysis
 ----
-Project
+----
+  PROJECT
+----
 ----
 ~ Performed Data Cleaning and Manipulation.
 ----
