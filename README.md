@@ -60,4 +60,4 @@ Enabled data-driven inventory management to meet market demand efficiently.
 Link
 ----
 GitHub File:- https://github.com/kushalgupta15/Python-Project-for-Sales-Analysis-/blob/main/PythonDataAnalyticsProject1.ipynb
-Raw Data File(csv):- hhttps://github.com/kushalgupta15/Python-Project-for-Sales-Analysis-/blob/main/Diwali%20Sales%20Data%20(Python%20Project%201).csv
+Raw Data File(csv):- https://github.com/kushalgupta15/Python-Project-for-Sales-Analysis-/blob/main/Diwali%20Sales%20Data%20(Python%20Project%201).csv
