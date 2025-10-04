@@ -55,3 +55,8 @@ Improved customer experience by recognizing potential customer groups.
 Increased sales opportunities by identifying high-demand products and categories.
 
 Enabled data-driven inventory management to meet market demand efficiently.
+
+----
+Link
+----
+GitHub File:- https://github.com/kushalgupta15/Python-Project-for-Sales-Analysis-/blob/main/PythonDataAnalyticsProject1.ipynb
