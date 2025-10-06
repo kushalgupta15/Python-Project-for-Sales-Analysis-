@@ -7,7 +7,7 @@
 This project focuses on analyzing sales data to uncover meaningful insights that can help businesses improve customer experience and increase sales. The analysis was performed using Python with popular data analysis and visualization libraries.
 
 ----
-🔧 Key Steps Performed
+🔧 Key Steps Performed 
 ----
 
 ✅ Data Cleaning & Manipulation
